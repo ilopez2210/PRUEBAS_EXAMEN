@@ -13,4 +13,5 @@ else:
         texto.write(result.text)
     print(soup.title.text)
     open('codigo.txt', 'r').read()
-
+    print('hola')
+    print("que tal")
